@@ -1,3 +1,6 @@
+require "spree/core"
+require "solidus_graphql/engine"
+
 require "solidus_graphql/version"
 
 require "graphql"
